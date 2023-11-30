@@ -10,4 +10,4 @@ This Dashboard is made to know about the demographics and behaviours of customer
 
 4. 33.58% of customers prefer Electronic check as their payment option over other alternatives, Capitalising/promoting the electronic check for every services would enhance the customer satisfication.
 
-5. And most importantly , the is a surge in the number of 'Technical tickets" has increased the churning of customers [ By proactive customer communication, assuring transparency, and showcasing improvements to improve confidence in service]. 
+5. And most importantly , the  surge in the number of 'Technical tickets" has increased the churning of customers [ By proactive customer communication, assuring transparency, and showcasing improvements to improve confidence in service]. 
